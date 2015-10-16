@@ -6,6 +6,7 @@
         <th>Id</th>
         <th>Title</th>
         <th>Action</th>
+        <th>Action</th>
         <th>Created</th>
     </tr>
 
